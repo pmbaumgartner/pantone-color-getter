@@ -1,0 +1,170 @@
+[
+    {
+        "year": 2000,
+        "color": "Cerulean",
+        "pantone": "Pantone 15-4020",
+        "hex": "#9BB7D4",
+        "rgb": "rgb(155, 183, 212)",
+        "hsl": "hsl(211, 40%, 72%)"
+    },
+    {
+        "year": 2001,
+        "color": "Fuchsia Rose",
+        "pantone": "Pantone 17-2031",
+        "hex": "#C74375",
+        "rgb": "rgb(199, 67, 117)",
+        "hsl": "hsl(337, 54%, 52%)"
+    },
+    {
+        "year": 2002,
+        "color": "True Red",
+        "pantone": "Pantone 19-1664",
+        "hex": "#BF1932",
+        "rgb": "rgb(191, 25, 50)",
+        "hsl": "hsl(351, 77%, 42%)"
+    },
+    {
+        "year": 2003,
+        "color": "Aqua Sky",
+        "pantone": "Pantone 14-4811",
+        "hex": "#7BC4C4",
+        "rgb": "rgb(123, 196, 196)",
+        "hsl": "hsl(180, 38%, 63%)"
+    },
+    {
+        "year": 2004,
+        "color": "Tigerlily",
+        "pantone": "Pantone 17-1456",
+        "hex": "#E2583E",
+        "rgb": "rgb(226, 88, 62)",
+        "hsl": "hsl(10, 74%, 56%)"
+    },
+    {
+        "year": 2005,
+        "color": "Blue Turquoise",
+        "pantone": "Pantone 15-5217",
+        "hex": "#53B0AE",
+        "rgb": "rgb(83, 176, 174)",
+        "hsl": "hsl(179, 37%, 51%)"
+    },
+    {
+        "year": 2006,
+        "color": "Sand Dollar",
+        "pantone": "Pantone 13-1106",
+        "hex": "#DECDBE",
+        "rgb": "rgb(222, 205, 190)",
+        "hsl": "hsl(28, 33%, 81%)"
+    },
+    {
+        "year": 2007,
+        "color": "Chili Pepper",
+        "pantone": "Pantone 19-1557",
+        "hex": "#9B1B30",
+        "rgb": "rgb(155, 27, 48)",
+        "hsl": "hsl(350, 70%, 36%)"
+    },
+    {
+        "year": 2008,
+        "color": "Blue Iris",
+        "pantone": "Pantone 18-3943",
+        "hex": "#5A5B9F",
+        "rgb": "rgb(90, 91, 159)",
+        "hsl": "hsl(239, 28%, 49%)"
+    },
+    {
+        "year": 2009,
+        "color": "Mimosa",
+        "pantone": "Pantone 14-0848",
+        "hex": "#F0C05A",
+        "rgb": "rgb(240, 192, 90)",
+        "hsl": "hsl(41, 83%, 65%)"
+    },
+    {
+        "year": 2010,
+        "color": "Turquoise",
+        "pantone": "Pantone 15-5519",
+        "hex": "#45B5AA",
+        "rgb": "rgb(69, 181, 170)",
+        "hsl": "hsl(174, 45%, 49%)"
+    },
+    {
+        "year": 2011,
+        "color": "Honeysuckle",
+        "pantone": "Pantone 18-2120",
+        "hex": "#D94F70",
+        "rgb": "rgb(217, 79, 112)",
+        "hsl": "hsl(346, 64%, 58%)"
+    },
+    {
+        "year": 2012,
+        "color": "Tangerine Tango",
+        "pantone": "Pantone 17-1463",
+        "hex": "#DD4124",
+        "rgb": "rgb(221, 65, 36)",
+        "hsl": "hsl(9, 73%, 50%)"
+    },
+    {
+        "year": 2013,
+        "color": "Emerald green",
+        "pantone": "Pantone 17-5641",
+        "hex": "#009473",
+        "rgb": "rgb(0, 148, 115)",
+        "hsl": "hsl(167, 100%, 29%)"
+    },
+    {
+        "year": 2014,
+        "color": "Radiant Orchid",
+        "pantone": "Pantone 18-3224",
+        "hex": "#B163A3",
+        "rgb": "rgb(177, 99, 163)",
+        "hsl": "hsl(311, 33%, 54%)"
+    },
+    {
+        "year": 2015,
+        "color": "Marsala",
+        "pantone": "Pantone 18-1438",
+        "hex": "#955251",
+        "rgb": "rgb(149, 82, 81)",
+        "hsl": "hsl(1, 30%, 45%)"
+    },
+    {
+        "year": 2016,
+        "color": "Rose Quartz",
+        "pantone": "Pantone 13-1520",
+        "hex": "#F7CAC9",
+        "rgb": "rgb(247, 202, 201)",
+        "hsl": "hsl(1, 74%, 88%)"
+    },
+    {
+        "year": 2016,
+        "color": "Serenity",
+        "pantone": "Pantone 15-3913",
+        "hex": "#92A8D1",
+        "rgb": "rgb(146, 168, 209)",
+        "hsl": "hsl(219, 41%, 70%)"
+    },
+    {
+        "year": 2017,
+        "color": "Greenery",
+        "pantone": "Pantone 15-0343",
+        "hex": "#88B04B",
+        "rgb": "rgb(136, 176, 75)",
+        "hsl": "hsl(84, 40%, 49%)"
+    },
+    {
+        "year": 2018,
+        "color": "Ultra Violet",
+        "pantone": "Pantone 18-3838",
+        "hex": "#5F4B8B",
+        "rgb": "rgb(95, 75, 139)",
+        "hsl": "hsl(259, 30%, 42%)"
+    },
+    {
+        "year": 2019,
+        "color": "Living Coral",
+        "pantone": "Pantone 16-1546",
+        "hex": "#FF6F61",
+        "rgb": "rgb(255, 111, 97)",
+        "hsl": "hsl(5, 100%, 69%)"
+    }
+]
