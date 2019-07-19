@@ -41,15 +41,6 @@ button {
   -moz-appearance: none;
 }
 
-button:focus {
-  outline: 1px solid #fff;
-  outline-offset: -4px;
-}
-
-button:active {
-  transform: scale(0.99);
-}
-
 .tooltip {
   display: block !important;
   z-index: 10000;

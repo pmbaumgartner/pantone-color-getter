@@ -7,8 +7,8 @@
     <ColorData :color="i.hex" />
     <ColorData :color="i.rgb" />
     <ColorData :color="i.hsl" />
-    <Swatch :bgcolor="i.hex" fc="rgb(0,0,0)" text="Black"/>
-    <Swatch :bgcolor="i.hex" fc="rgb(255,255,255)" text="White"/>
+    <Swatch :bgcolor="i.hex" fc="rgb(0,0,0)" text="etaoin shrdlu"/>
+    <Swatch :bgcolor="i.hex" fc="rgb(255,255,255)" text="etaoin shrdlu"/>
 </tr>
 </tbody>
 </table>
