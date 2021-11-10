@@ -34,4 +34,4 @@ df["rgb"] = df["hex"].apply(hex_to_rgb_str)
 df["hsl"] = df["hex"].apply(hex_to_hsl_str)
 
 df = df[["year", "color", "pantone", "hex", "rgb", "hsl"]].sort_values("year", ascending=False)
-Path("colors.json").write_text(json.dumps(df.to_dict(orient="records"), indent=4))
+Path("docs/colors.json").write_text(json.dumps(df.to_dict(orient="records"), indent=4))

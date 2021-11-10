@@ -1,13 +1,14 @@
 # Pantone Color of The Year Listing
 
-Build with [VuePress](https://v1.vuepress.vuejs.org/).
+**Instructions:**
 
-## Commands
+1. `npm install`
+2. (virtual environment) `pip install -r requirements.txt`
+3. python format.py
+4. `npm run docs:dev` (for local viewing)
+5. `npm run docs:build` (for prod)
 
-Defined in `package.json`
-
-`npm run docs:dev`
-`npm run docs:build`
+Built with [VuePress](https://v1.vuepress.vuejs.org/).
 
 ## Reference Sites
 https://convertingcolors.com/hex-color-FF6F61.html
