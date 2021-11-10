@@ -3,7 +3,7 @@
 **Instructions:**
 
 1. `npm install`
-2. (virtual environment) `pip install -r requirements.txt`
+2. (virtual environment) `pip install -r requirements-py.txt` (renamed to not auto-build with netlify)
 3. python format.py
 4. `npm run docs:dev` (for local viewing)
 5. `npm run docs:build` (for prod)
